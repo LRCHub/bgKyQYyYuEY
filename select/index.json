@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "My Dearest",
+  "base_artist": "supercell",
+  "createdAt": "2025-12-27T07:49:40.620385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Dearest Friend",
+      "artist": "Devendra Banhart",
+      "has_synced": false,
+      "path": "select/01_My_Dearest_Friend_Devendra_Banhart.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Dearest",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/02_My_Dearest_supercell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/03_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02 - My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/04_02_-_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "06 My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/05_06_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/06_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/07_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Dearest Fear",
+      "artist": "The Ferrymen",
+      "has_synced": false,
+      "path": "select/08_My_Dearest_Fear_The_Ferrymen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/09_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Dearest (Album Mix)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/10_My_Dearest_(Album_Mix)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Dearest Friend",
+      "artist": "Frenzal Rhomb",
+      "has_synced": true,
+      "path": "select/11_My_Dearest_Friend_Frenzal_Rhomb.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Dearest",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/pl_01_My_Dearest_supercell.txt"
+    }
+  ]
+}
